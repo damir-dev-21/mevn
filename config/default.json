@@ -1,0 +1,5 @@
+{
+    "PORT":5000,
+    "mongoURI":"mongodb+srv://damir-mevn:d2222d@cluster0.dsi0j.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"damir-mevn-dev"
+}
